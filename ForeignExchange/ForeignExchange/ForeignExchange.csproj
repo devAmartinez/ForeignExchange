@@ -43,6 +43,7 @@
     <Compile Include="Helpers\PlatformCulture.cs" />
     <Compile Include="Helpers\TranslateExtension.cs" />
     <Compile Include="Infrastructure\InstanceLocator.cs" />
+    <Compile Include="Interfaces\IConfig.cs" />
     <Compile Include="Interfaces\ILocalize.cs" />
     <Compile Include="Models\Rate.cs" />
     <Compile Include="Models\Response.cs" />
